@@ -14,4 +14,5 @@ data class Tree(
 data class Blob(
     val content: List<Byte>
 ) : SnapshotPart
+
 ```
